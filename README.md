@@ -1,2 +1,2 @@
-# she-hackathon
+# She-Hackathon
 Python
